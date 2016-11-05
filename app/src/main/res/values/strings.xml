@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MYB</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity strings -->
+    <string name="configuration_tab_title">Configuration</string>
+    <string name="event_tab_title">Evénements</string>
+    <string name="list_tab_title">Liste</string>
+
+    <!-- Configuration fragment strings -->
+    <string name="configuration_title">Configuration</string>
+
+    <!-- Create event fragment strings -->
+    <string name="create_event_title">Créer un événement</string>
+    <string name="error_title_event">Titre vide</string>
+    <string name="error_description_event">Description vide</string>
+    <string name="error_date_event">Date vide</string>
+    <string name="error_time_event">Heure vide</string>
+    <string name="error_street_event">Rue vide</string>
+    <string name="error_city_event">Ville vide</string>
+</resources>
